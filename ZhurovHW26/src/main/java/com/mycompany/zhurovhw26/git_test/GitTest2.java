@@ -10,5 +10,7 @@ package com.mycompany.zhurovhw26.git_test;
  * @author kostya
  */
 public class GitTest2 {
-    
+    public static void test(String[] args) {
+        
+    }
 }
